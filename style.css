@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.write-part{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin-left:10%;
+    margin-top: 5%;
+}
+
+.write-part img{
+    width: 80%;
+    height: 20%;
+}
+.hire-button{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.part-one{
+    background-image: url("images/header-bg.png");
+}
+
+section{
+    height: 800px;
+}
+.name{
+    color: orange;
+}
+.part-two{
+    background-image: url("images/biography-bg.png");
+}
+.one{
+    float: left;
+    width: 30%;
+    height: 30%;
+    padding-right: 3%;
+   
+    
+    
+}
+.one img{
+    width: 80%;
+    height: 100%;
+    margin-left: 10%;
+}
+.middle{
+    text-align: center;
+    padding: 10px;
+}
+.part-three{
+    height: 600px;
+    background-image: url("images/latest-work-bg.png");
+}
+
+footer{
+    height: 500px;
+    background-image: url("images/footer-bg.png");
+}
+.last{
+    background-color: orange;
+    width: 30%;
+    padding: 5px;
+    height: 20%;
+    margin-left: 35%;
+    margin-bottom: 10%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+
